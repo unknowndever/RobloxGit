@@ -10,7 +10,7 @@ function zombie.new(health,damage)
 end
 
 function zombie:OnStart()
-    self.health = 100
+    self.health = 90
     self.damage = 3
 end
 
